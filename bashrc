@@ -5,4 +5,5 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias scala='scala -deprecation'
 alias less='less -R'
+alias make='make --no-builtin-rules'
 
